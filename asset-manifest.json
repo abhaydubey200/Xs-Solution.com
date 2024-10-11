@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Xs-Solution.com/static/css/main.58a0c615.css",
+    "main.js": "/Xs-Solution.com/static/js/main.f93a16c9.js",
+    "static/media/HeroImage.jpg": "/Xs-Solution.com/static/media/HeroImage.9fb4e186ad355e8a3475.jpg",
+    "index.html": "/Xs-Solution.com/index.html",
+    "main.58a0c615.css.map": "/Xs-Solution.com/static/css/main.58a0c615.css.map",
+    "main.f93a16c9.js.map": "/Xs-Solution.com/static/js/main.f93a16c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.f93a16c9.js"
+  ]
+}
